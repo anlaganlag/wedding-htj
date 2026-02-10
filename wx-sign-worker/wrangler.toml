@@ -1,0 +1,7 @@
+name = "wx-sign"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+WX_APPID = "wxe41fe5205ca5fd74"
+WX_APPSECRET = "32fc8b2d8db60dac6c4bbfee17be2eeb"
